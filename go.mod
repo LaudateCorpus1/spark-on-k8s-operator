@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	cloud.google.com/go/storage v1.0.0
-	github.com/aws/aws-sdk-go v1.29.11
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c // indirect
 	github.com/elazarl/goproxy v0.0.0-20200421181703-e76ad31c14f6 // indirect
 	github.com/evanphx/json-patch v4.9.0+incompatible
@@ -20,7 +20,7 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	github.com/robfig/cron v1.2.0
 	github.com/spf13/cobra v1.0.0
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
