@@ -16,13 +16,13 @@ require (
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.2-0.20190409134802-7e037d187b0c
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/robfig/cron v1.2.0
 	github.com/spf13/cobra v1.0.0
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 	k8s.io/api v0.19.6
 	k8s.io/apiextensions-apiserver v0.19.6
